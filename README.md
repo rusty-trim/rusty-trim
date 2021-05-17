@@ -73,7 +73,7 @@ If you want to reach out to me to talk just add me on Discord. My username and d
 
 <p align="center" >  
   <a href="https://github.com/rtgamingwdt/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=rtgamingwdt&&show_icons=true&theme=blue"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=rtgamingwdt&&show_icons=true&include_all_commits=true&theme=blue"/>
   </a>
   </p>
 
