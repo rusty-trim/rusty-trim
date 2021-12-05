@@ -17,7 +17,7 @@
 
 ### - Learning :
 - ✨ More Coding Languages
-- ✨ Minecraft Server Plugin Coding
+- ✨ Minecraft Forge Modding
 
 ### - Hobbies : 
 - ✨ Gaming Addict
