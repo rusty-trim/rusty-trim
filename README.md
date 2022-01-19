@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 15 years old and I am trying to become a really good coder/developer.
+### - I'm 16 years old and I am trying to become a really good coder/developer.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/rtgamingwdt/rtgamingwdt/blob/master/assets/juice-wrld.gif">
 
