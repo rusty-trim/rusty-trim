@@ -35,11 +35,11 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" width="130">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" alt="html"  width="120">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg" alt="java" width="105">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="js" width="160">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/npm.svg" alt="npm" width="105">
+[<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" width="130">](https://nodejs.org/)
+[<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" alt="html"  width="120">](https://html.com/)
+[<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg" alt="java" width="105">](https://jdk.java.net/)
+[<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="js" width="160">](https://www.javascript.com/)
+[<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/npm.svg" alt="npm" width="105">](https://www.npmjs.com/)
 </p>
 </br>
 </br>
