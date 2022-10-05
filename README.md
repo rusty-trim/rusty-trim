@@ -36,10 +36,10 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" width="130" hight="200">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" alt="html"  width="120" height="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg" alt="java" width="105" height="150">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="js" width="160" height="230">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/npm.svg" alt="npm" width="105" height="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" alt="html"  width="120" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg" alt="java" width="105" hight="150">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="js" width="160" hight="230">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/npm.svg" alt="npm" width="105" hight="50">
 </p>
 </br>
 </br>
