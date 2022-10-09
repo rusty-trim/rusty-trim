@@ -56,7 +56,7 @@
 <img height="320" width="450" align="right" alt="GIF" src="https://giffiles.alphacoders.com/125/125060.gif">
 
 
-If you want to reach out to me to talk just add me on Discord. My username and discriminator is RT#0001 😉.
+If you want to reach out to me to talk just add me on Discord. My username and discriminator is RT#0661 😉.
  </p>
 </br>
 </br>
