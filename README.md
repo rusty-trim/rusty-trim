@@ -11,12 +11,9 @@
 
 # About ME 💬 :
 
-### - I'm 16 years old and I am trying to become a really good programmer.
+### - I'm 17 years old and I am trying to become a really good programmer.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/rtgamingwdt/rtgamingwdt/blob/master/assets/juice-wrld.gif">
-
-### - Learning :
-- ✨ Minecraft Forge Modding
 
 ### - Hobbies : 
 - ✨ Gaming Addict
@@ -56,7 +53,7 @@
 <img height="320" width="450" align="right" alt="GIF" src="https://giffiles.alphacoders.com/125/125060.gif">
 
 
-If you want to reach out to me to talk just add me on Discord. My username and discriminator is RT#0661 😉.
+If you want to reach out to me to talk just add me on Discord. My username and discriminator is YoItRT#0661 😉.
  </p>
 </br>
 </br>
