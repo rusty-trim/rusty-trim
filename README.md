@@ -25,38 +25,34 @@
 </br>
 
 # Languages 👨‍💻
-[<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="100" height="50">](https://www.w3.org/Style/CSS/)
-[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="100" height="50">](https://html.com/html5/)
-[<img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="openjdk" width="125" height="50">](https://jdk.java.net/)
-[<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="150" height="50">](https://www.javascript.com)
-[<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" width="100" height="50">](https://www.json.org/json-en.html)
-[<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" width="150" height="50">](https://www.typescriptlang.org)
+[<img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS">](https://www.w3.org/Style/CSS)
+[<img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML">](https://html.com)
+[<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java">](https://www.oracle.com/java/technologies/downloads)
+[<img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="JavaScript">](https://www.javascript.com)
+[<img src="https://skillicons.dev/icons?i=typescript&theme=dark" alt="TypeScript">](https://www.typescriptlang.org)
 
 </br>
 </br>
 </br>
 
 # Frameworks 🌱
-[<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" width="125" height="50">](https://angular.io)
-[<img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white" alt="bulma" width="100" height="50">](https://bulma.io)
-[<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js" width="100" height="50">](https://expressjs.com)
-[<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="gradle" width="100" height="50">](https://gradle.org)
-[<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="jwt" width="100" height="50">](https://jwt.io)
-[<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" width="100" height="50">](https://daringfireball.net/projects/markdown/)
-[<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" width="100" height="50">](https://nextjs.org)
-[<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" width="100" height="50">](https://nodejs.org/en)
-[<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" width="100" height="50">](https://www.npmjs.com)
-[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width="100" height="50">](https://react.dev)
-[<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react router" width="125" height="50">](https://reactrouter.com/en/main)
-[<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="react router" width="100" height="50">](https://sass-lang.com)
-[<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shell" width="150" height="50">](https://www.shellscript.sh)
-[<img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="socket.io" width="150" height="50">](https://socket.io)
-[<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" width="150" height="50">](https://tailwindcss.com)
-[<img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white" alt="tauri" width="150" height="50">](https://tauri.app)
-[<img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" alt="tauri" width="150" height="50">](https://typestrong.org/ts-node/)
+[<img src="https://skillicons.dev/icons?i=angular&theme=dark" alt="Angular">](https://angular.io)
+[<img src="https://skillicons.dev/icons?i=express&theme=dark" alt="ExpressJS">](https://expressjs.com)
+[<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="NextJS">](https://nextjs.org)
+[<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React">](https://react.dev)
+[<img src="https://skillicons.dev/icons?i=tauri&theme=dark" alt="Tauri">](https://tauri.app)
 
 </br>
 </br>
 </br>
 
 # Tools 🛠
+[<img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash">](https://www.gnu.org/software/bash/)
+[<img src="https://skillicons.dev/icons?i=gradle&theme=dark" alt="Gradle">](https://gradle.org)
+[<img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="Intellij">](https://www.jetbrains.com/idea/)
+[<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="NodeJS">](https://nodejs.org)
+[<img src="https://skillicons.dev/icons?i=replit&theme=dark" alt="Replit">](https://replit.com)
+[<img src="https://skillicons.dev/icons?i=sass&theme=dark" alt="Sass">](https://sass-lang.com)
+[<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="TailwindCSS">](https://tailwindcss.com)
+[<img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" alt="Visual Studio">](https://visualstudio.microsoft.com)
+[<img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Visual Studio Code">](https://code.visualstudio.com)
