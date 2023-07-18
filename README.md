@@ -53,6 +53,7 @@
 [<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="NodeJS">](https://nodejs.org)
 [<img src="https://skillicons.dev/icons?i=replit&theme=dark" alt="Replit">](https://replit.com)
 [<img src="https://skillicons.dev/icons?i=sass&theme=dark" alt="Sass">](https://sass-lang.com)
+[<img src="https://github.com/rtgamingwdt/rtgamingwdt/blob/master/assets/socket-io.png" width="48" height="48" alt="SocketIO">]()
 [<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="TailwindCSS">](https://tailwindcss.com)
 [<img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" alt="Visual Studio">](https://visualstudio.microsoft.com)
 [<img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Visual Studio Code">](https://code.visualstudio.com)
