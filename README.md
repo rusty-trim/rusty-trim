@@ -24,6 +24,13 @@
 </br>
 </br>
 
+# Contact
+[<img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord">](https://discordlookup.com/user/526649097546104844)
+
+</br>
+</br>
+</br>
+
 # Languages 👨‍💻
 [<img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS">](https://www.w3.org/Style/CSS)
 [<img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML">](https://html.com)
