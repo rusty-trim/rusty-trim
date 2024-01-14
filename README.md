@@ -10,7 +10,7 @@
 
 # About ME 💬 :
 
-### - I am currently 17 years old looking to improve my skills to become a software engineer.
+### - I am currently 18 years old looking to improve my skills to become a software engineer.
 
 <img height="400" width="500" alt="GIF" align="right" src="https://github.com/rtgamingwdt/rtgamingwdt/blob/master/assets/juice-wrld.gif">
 
