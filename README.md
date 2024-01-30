@@ -1,3 +1,10 @@
+# Hey, I'm RT
+
+- 🖥️ I've been coding in TypeScript, and Java for a couple of years now.
+- 🔧 I am a developer for the new and upcoming platform [Strafe](https://strafe.chat).
+- 🦀 I am currently learning Rust and Python at the moment.
+  
+<!--- comments syntax
 # Hello There 👋
 
 <div align="center">
@@ -64,3 +71,4 @@
 [<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="TailwindCSS">](https://tailwindcss.com)
 [<img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" alt="Visual Studio">](https://visualstudio.microsoft.com)
 [<img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Visual Studio Code">](https://code.visualstudio.com)
+--->
