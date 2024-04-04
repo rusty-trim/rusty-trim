@@ -1,7 +1,6 @@
 # Hey, I'm RT
 
 - 🖥️ I've been coding in TypeScript, and Java for a couple of years now.
-- 🔧 I am a developer for the new and upcoming platform [Strafe](https://strafe.chat).
 - 🦀 I am currently learning Rust and Python at the moment.
   
 <!--- comments syntax
