@@ -1,6 +1,23 @@
-# Hey, I'm Rusty
+# Hello, I'm Rusty 👋
 
-- I am 18 years old.
-- I am currently attending Lake Superior State University to improve my skills in Computer Science.
-- I lost access to my other [account](https://www.github.com/rustytrim), guess it's time to restart on making a bunch of projects again.
-- I am proficient in C++, C#, TypeScript, Java, and have some experience with Rust and Python.
+### About Me
+- I’m an 18-year-old aspiring software developer currently studying Computer Science at **Lake Superior State University**.
+- Passionate about coding and continuously improving my skills, I enjoy tackling new challenges and learning new technologies.
+- After losing access to my previous [GitHub account](https://www.github.com/rustytrim), I'm excited to restart and embark on new projects.
+
+### Skills
+- **Programming Languages**: 
+  - Proficient in **C++**, **C#**, and **TypeScript**.
+  - Familiar with **Java**, **Rust**, and **Python**.
+ 
+### Current Projects
+- Check back later 😉
+<!-- - I’m currently working on several projects, including: -->
+<!-- - A [project idea or title](#) (link to the repository when available). -->
+<!-- - Another project idea or title (link to the repository when available). -->
+
+### Future Goals
+- I aim to deepen my knowledge in **web development**, **algorithmic design**, **machine learning**, and **game development**.
+- I aspire to contribute to open-source projects and collaborate with other developers as I gain more knowledge.
+
+Thanks for checking out my profile! 😊
