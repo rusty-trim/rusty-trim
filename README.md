@@ -7,8 +7,8 @@
 
 ### Skills
 - **Programming Languages**: 
-  - Proficient in **C++**, **C#**, and **TypeScript**.
-  - Familiar with **Java**, **Rust**, and **Python**.
+  - Proficient in **C++**, **C#**, **Java**, and **TypeScript**.
+  - Familiar with **Rust**, and **Python**.
  
 ### Current Projects
 - Check back later 😉
