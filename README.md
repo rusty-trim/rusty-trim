@@ -1,7 +1,7 @@
 # Hello, I'm Rusty 👋
 
 ### About Me
-- I’m an 18-year-old aspiring software developer currently studying Computer Science at **Lake Superior State University**.
+- I’m an 19-year-old aspiring software developer currently studying Computer Science at **Lake Superior State University**.
 - Passionate about coding and continuously improving my skills, I enjoy tackling new challenges and learning new technologies.
 - After losing access to my previous [GitHub account](https://www.github.com/rustytrim), I'm excited to restart and embark on new projects.
 
