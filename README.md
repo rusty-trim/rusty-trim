@@ -1,9 +1,9 @@
 # Hello, I'm Rusty 👋
 
 ### About Me
-- I’m an 19-year-old aspiring software developer currently studying Computer Science at **Lake Superior State University**.
-- Passionate about coding and continuously improving my skills, I enjoy tackling new challenges and learning new technologies.
-- After losing access to my previous [GitHub account](https://www.github.com/rustytrim), I'm excited to restart and embark on new projects.
+- I’m an 19-year-old currently studying Computer Science at **Lake Superior State University**.
+- Passionate about evolving and becoming the best version of myself.
+- After losing access to my previous [GitHub account](https://www.github.com/rustytrim), I've started this github account to restart.
 
 ### Skills
 - **Programming Languages**: 
@@ -17,7 +17,4 @@
 <!-- - Another project idea or title (link to the repository when available). -->
 
 ### Future Goals
-- I aim to deepen my knowledge in **web development**, **algorithmic design**, **machine learning**, and **game development**.
-- I aspire to contribute to open-source projects and collaborate with other developers as I gain more knowledge.
-
-Thanks for checking out my profile! 😊
+- I aim to deepen my knowledge in **web development**, **algorithmic design**, **machine learning**, **game development**, and **business**.
