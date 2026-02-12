@@ -3,7 +3,6 @@
 ### About Me
 - I’m a 20-year-old currently studying Computer Science at **Lake Superior State University**.
 - Passionate about evolving and becoming the best version of myself.
-- After losing access to my previous [GitHub account](https://www.github.com/rustytrim), I've started this github account to restart.
 
 ### Skills
 - **Programming Languages**: 
