@@ -20,11 +20,6 @@
 - Neovim
 - Qt Creator
 
-### Skills
-- **Programming Languages**: 
-  - Proficient in **C++** **Java**, and **TypeScript/JavaScript**.
-  - Familiar with **C**, **Rust**, **SQL**, **Python**, and **C#**.
-
 ## 🏗️ Projects 🏗️
 ### 📌 Room Reservation System
 - Qt-based desktop application using SQLite.
