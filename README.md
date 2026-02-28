@@ -7,7 +7,7 @@
 - Data Structures & Algorithmic Thinking
 - Strengthening problem solving via LeetCode
 
-## ⚙️ Technical Stack
+## ⚙️ Technical Stack ⚙️
 ### Languages
 - C++
 - C
