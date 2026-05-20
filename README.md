@@ -19,6 +19,7 @@
 - Linux (EndeavourOS)
 - Neovim
 - Qt Creator
+- Visual Studio Code
 
 ## 🏗️ Projects 🏗️
 ### 📌 Room Reservation System
