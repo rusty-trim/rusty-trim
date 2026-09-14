@@ -26,6 +26,8 @@
 ## Projects
 ### [Zircon (Markdown Editor)](https://github.com/rusty-trim/zircon-md) - Status: Ongoing
 - A markdown note editor application that utilizes Tauri and React.JS
+### [Computer Graphics Final Project](https://github.com/rusty-trim/cs321-final-project) - Status: Ongoing
+- A voxel engine based game that I am working on for my computer graphics class.
 
 ## Goals
 - Short-term:
