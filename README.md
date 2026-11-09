@@ -5,7 +5,6 @@
 
 ## Current Focus
 - Data Structures & Algorithms - Developing algorithmic thinking and learning to recognize and solve unfamiliar problems.
-- Math Minor - Calculus I-II, Fundamental Concepts Of Mathematics, Linear Algebra, and Graph Theory.
 - Computer Science Theory - Computability, complexity, theoretical foundations, and understanding why computation works the way it does.
 - Engineering Through Projects - Building increasingly large software rather than learning technologies in isolation.
 
