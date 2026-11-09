@@ -41,7 +41,6 @@
   - Pursue research in an area of computer science that I find exciting, if that path becomes a good fit.
   - Contribute new knowledge as well as new technology.
   - Create technology or research that has a meaningful impact on the world.
-  - Achieve financial independence through my technical career.
 
 ## 📫 Connect 📫
 [LinkedIn](https://www.linkedin.com/in/rusty-trim/)
